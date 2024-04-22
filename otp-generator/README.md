@@ -1,4 +1,4 @@
-# OTP Generate App
+# OTP Generator
 
 A simple, yet powerful project using plain JavaScript, HTML, and raw CSS. Let's build an application to Generate, Validate, and Expire OTP(One Time Password).
 
